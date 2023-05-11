@@ -15,7 +15,7 @@ type Book {
     description: String
     title: String
     image: String
-    link String
+    link: String
 }
 
 input InputBook {
@@ -24,7 +24,7 @@ input InputBook {
     description: String
     title: String
     image: String
-    link String
+    link: String
 }
 
 type Auth {
